@@ -1,0 +1,8 @@
+Práctica 1 de la asignatura Infraestructura Virtual
+===================================================
+- Autor: Javier Galiana Romero
+- correo: jagaro@correo.ugr.es
+- Licencia: GPLv3
+
+Aplicación realizada
+--------------------
